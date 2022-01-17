@@ -6,3 +6,5 @@ tes satu dua tiga
 -menambahkan list
 -menambahkan lisat
 -hapus list dan tambah baru
+
+mengubah file test.txt
