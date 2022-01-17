@@ -10,3 +10,4 @@ tes satu dua tiga
 mengubah file test.txt
 test
 test lagi
+sekali lagi 
