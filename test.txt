@@ -8,4 +8,5 @@ tes satu dua tiga
 -hapus list dan tambah baru
 
 mengubah file test.txt
+test
 test lagi
